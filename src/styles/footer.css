@@ -1,0 +1,22 @@
+.footerContainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: royalblue;
+    color: #ffffff;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  .footer p {
+    margin: 0;
+  }
+  
+  .footerContact a {
+    color: #ffffff;
+    text-decoration: underline;
+    font-weight: bold;
+    margin-right: 50px;
+  }

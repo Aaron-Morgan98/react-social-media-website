@@ -1,0 +1,33 @@
+.contactContainer {
+    margin-top: 100px;
+  }
+  
+  .contactButtons {
+    display: flex;
+    justify-content: center;
+    gap: 10px; 
+  }
+  
+  .contactButton {
+    padding: 10px;
+    background-color: royalblue;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    height: 50px;
+    width: 100px;
+    font-size: large;
+  
+    &:hover {
+        background-color: #2980b9; 
+    }
+  }
+  
+  .contactButton a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  

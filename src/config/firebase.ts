@@ -6,7 +6,7 @@ import {getFirestore} from "firebase/firestore";
 // https://firebase.google.com/docs/web/setup#available-libraries
 
 
-//TODO: add to gitignore/hide the below
+
 // Your web app's Firebase configuration
 const firebaseConfig = {
   apiKey: "AIzaSyBSk7w4PHLeoLJ31z71IHy08rz1X7guJ54",

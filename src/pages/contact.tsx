@@ -1,3 +1,4 @@
+import "../styles/contact.css";
 import { HashLink as Link } from "react-router-hash-link";
 import React from 'react';
 

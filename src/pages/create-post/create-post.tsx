@@ -1,3 +1,4 @@
+import "../../styles/create-post.css";
 import {CreateForm} from "./create-form"
 
 export const CreatePost = () => {
